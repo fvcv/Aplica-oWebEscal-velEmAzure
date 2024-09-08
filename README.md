@@ -1,0 +1,1 @@
+# Aplica-oWebEscal-velEmAzure
